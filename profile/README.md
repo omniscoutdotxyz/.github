@@ -10,15 +10,6 @@ Our mission is to build the infrastructure that makes this possible.
 
 ---
 
-## What We're Building
-
-We're developing infrastructure that enables AI agents to move beyond text-based interactions and execute real-world digital workflows.
-
-- **Browser Infrastructure** — Enabling AI agents to navigate, explore, and interact with the web.
-- **Computer Interaction** — Giving agents the ability to interact with desktop environments and applications.
-- **Web Intelligence** — Making web search, research, and information extraction accessible to AI systems.
-- **Developer Infrastructure** — Building tools and interfaces that make autonomous agents easier to develop and deploy.
-
 ## Explore OmniScout
 
 Discover our products, documentation, and development.
